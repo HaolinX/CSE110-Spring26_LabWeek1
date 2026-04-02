@@ -48,5 +48,3 @@ I enjoy programming, listening to music, and learning new technologies.
 - 3
 - 1
 - 2
-
-GitHub Pages URL: https://haolinx.github.io/CSE110-Spring26_LabWeek1/
