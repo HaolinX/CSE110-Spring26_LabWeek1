@@ -46,5 +46,7 @@ I enjoy programming, listening to music, and learning new technologies.
 
 ## Unordered list
 - 3
-- 2
 - 1
+- 2
+
+GitHub Pages URL: https://haolinx.github.io/CSE110-Spring26_LabWeek1/
