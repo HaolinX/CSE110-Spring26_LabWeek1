@@ -28,7 +28,7 @@ I enjoy programming, listening to music, and learning new technologies.
 > "Hello World!"
 
 ## external link
-[text](https://github.com/HaolinX)
+[Github](https://github.com/HaolinX)
 
 ## picture
 ![picture](images/c++.jpg)
